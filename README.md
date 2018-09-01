@@ -1,3 +1,9 @@
+# Changes
+
+- Replace google fonts link
+
+---
+
 # <img src="/img/icon48.png" align="absmiddle"> Spaces
 
 ### A Chrome extension for Intuitive tab management
